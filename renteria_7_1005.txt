@@ -1,0 +1,1 @@
+code comments are // or /* allow you to commenst with out effecting code
