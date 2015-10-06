@@ -1,0 +1,5 @@
+a method is a little program of finction that has an action of repeating at a 
+frequency 
+a class tell you what an object is and what it dose. like a blue print  
+an instante is like an ingredent in the class or a piece of the class 
+types of methods like static 
