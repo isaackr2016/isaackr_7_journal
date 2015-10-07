@@ -1,0 +1,5 @@
+a java class is like a templet or a blu print for java
+a java class for fx would be like Stage,scens
+mehthods are like group draw root
+
+ 
