@@ -1,0 +1,5 @@
+the perpouse of the code are is to see how we can uses java and methods
+in java to create more complex works of art easyer than coding ever single
+line for every every single shape
+the perpous of creating art with code is so we know how to do it when we
+built a full graohics game    
