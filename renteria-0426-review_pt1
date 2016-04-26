@@ -1,0 +1,21 @@
+java
+public static void main(string{} args{
+  
+int = x
+returne (x*x*x)
+}
+arduiino 
+int cudeofnum{ 
+int = x
+int = cube
+cube = (x*x*x)}
+classes objects and classcons
+
+public class Item {
+Image heart new = Image( "res/heart.png");
+}
+Public class main {
+ new Item = first heart  [22,22]
+New  Item = last heatr [33,33]
+}
+if i could could continoiu a arduino i would  create a paino like game where th computer tells you witch button to push and when you push it thebutton the buzzer will make a spsific note 
