@@ -1,0 +1,12 @@
+changeing one data type to another like changing a int = 2 to an double or a 
+string into a char
+double  e  = 2.71828;
+int hudson ;
+hudson = (int)e;  
+char answer to life  = 444;
+string plop
+plop = ""+ answer to life 
+
+int dog = 2;
+double james;
+dog = james;
